@@ -85,6 +85,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 
 ### Swift
 - [JNaturalKorean](https://github.com/trilliwon/JNaturalKorean) - 한글 (조사, 助詞, postposition)
+- [HangulKit](https://github.com/dev-hamin-kim/HangulKit) - [es-hangul](https://es-hangul.slash.page/)을 Swift로 옮긴 라이브러리
 
 ## Applications
 - [Apache Spark](https://spark.apache.org/)

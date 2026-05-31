@@ -77,6 +77,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [ununiga](https://github.com/keepcosmos/ununiga) - 한글 자소 분리 및 은/는, 이/가 등의 조사가 포함된 로케일 처리를 위한 라이브러리
 
 ### Rust
+- [Gukhanmun](https://github.com/dahlia/gukhanmun) - 국한문혼용체로 쓰인 한국어 텍스트를 한글 전용으로 변환하는 라이브러리. 《표준국어대사전》 내장. Rust 라이브러리, CLI, WebAssembly 및 Node-API 바인딩(Node.js, Deno, 브라우저 지원)으로 사용 가능.
 - [hangul](https://github.com/YujinGaya/hangul) - Utilities to manipulate hangul syllables
 - [josa](https://github.com/YujinGaya/josa) - Idiomatic josa selector
 
